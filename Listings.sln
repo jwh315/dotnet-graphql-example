@@ -1,10 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listings.API", "Listings.API\Listings.API.csproj", "{3A9C689B-86F0-40DF-8BBB-7BADB33E9939}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listings.API", "Backend\Listings.API\Listings.API.csproj", "{3A9C689B-86F0-40DF-8BBB-7BADB33E9939}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listings.Core", "Listings.Core\Listings.Core.csproj", "{283A694F-5E95-4078-98DE-64E58F60EE3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listings.Core", "Backend\Listings.Core\Listings.Core.csproj", "{283A694F-5E95-4078-98DE-64E58F60EE3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{1FB726AD-3DA8-4D58-92E6-284F19E63813}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Backend\Tests\Tests.csproj", "{1FB726AD-3DA8-4D58-92E6-284F19E63813}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,11 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/jacobholmes/Library/Caches/JetBrains/Rider2021.2/resharper-host/temp/Rider/vAny/CoverageData/_Listings.740314133/Snapshot/snapshot.utdcvr</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0bd3d30c_002D2fc0_002D40d4_002D99bb_002Dc7cd78f34566/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetListingById_ReturnsListing" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::1FB726AD-3DA8-4D58-92E6-284F19E63813::.NETCoreApp,Version=v3.1::Tests.CoreTests.GetListingCommandHandlerTests.GetListingById_ReturnsListing&lt;/TestId&gt;
-    &lt;TestId&gt;xUnit::1FB726AD-3DA8-4D58-92E6-284F19E63813::.NETCoreApp,Version=v3.1::Tests.CoreTests.GetAllListingsCommandHandlerTests.GetAllListings_ReturnsMultipleListings&lt;/TestId&gt;
-    &lt;TestId&gt;xUnit::1FB726AD-3DA8-4D58-92E6-284F19E63813::.NETCoreApp,Version=v3.1::Tests.CoreTests.DeleteListingCommandHandlerTests&lt;/TestId&gt;
-    &lt;TestId&gt;xUnit::1FB726AD-3DA8-4D58-92E6-284F19E63813::.NETCoreApp,Version=v3.1::Tests.CoreTests.CreateListingCommandHandlerTests.CreateListing_ShouldSetListingId&lt;/TestId&gt;
-    &lt;TestId&gt;xUnit::1FB726AD-3DA8-4D58-92E6-284F19E63813::.NETCoreApp,Version=v3.1::Tests.CoreTests.ListingRepositoryTests&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
+  &lt;Project Location="/Users/jacobholmes/Documents/code/personal/Listings/Backend/Tests" Presentation="&amp;lt;Tests&amp;gt;" /&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,4 +1,4 @@
-# Listings GraphQL Api
+# GraphQl dotnet POC
 
 ## About
 
