@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  localstack:
+    image: localstack/localstack:0.12.18
+    ports:
+      - 4566:4566
+    environment:
+      - SERVICES=dynamodb
+      - AWS_ACCESS_KEY_ID=test
+      - AWS_SECRET_ACCESS_KEY=test
+    volumes:
+      - ./localstack-init:/docker-entrypoint-initaws.d
